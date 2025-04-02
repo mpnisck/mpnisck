@@ -10,36 +10,25 @@
 
 ## 프로젝트
 
-> **[ 개인 ]** HotKey 피그마 단축키 자동 분석 도구 <br>
-**:link:** [프로젝트 리드미](https://github.com/mpnisck/HotKey?tab=readme-ov-file#hotkey) | [프로젝트 노션](https://stump-aragon-f40.notion.site/HotKey-1928527583fe81d4a753db0bc453a0ee?pvs=4) 
-> 
+> **[ 개인 ]** HotKey 피그마 단축키 자동 분석 도구 <br> > **:link:** [프로젝트 리드미](https://github.com/mpnisck/HotKey?tab=readme-ov-file#hotkey) | [프로젝트 노션](https://stump-aragon-f40.notion.site/HotKey-1928527583fe81d4a753db0bc453a0ee?pvs=4)
 
-> **[ 팀 ]** Sticky Seacher 검색어 관련 설명 위치 자동 스크롤 및 자동 하이라이팅 크롬 확장 도구 <br>
-**:link:** [프로젝트 리드미](https://github.com/Sticky-Seacher/sticky-searcher-extension/tree/docs/README?tab=readme-ov-file#sticky-searcher) | [프로젝트 협업 노션](https://glorious-legend-f3d.notion.site/177f13b583508046990ff03ba1985e95?pvs=4)
-> 
+> **[ 팀 ]** Sticky Seacher 검색어 관련 설명 위치 자동 스크롤 및 자동 하이라이팅 크롬 확장 도구 <br> > **:link:** [프로젝트 리드미](https://github.com/Sticky-Seacher/sticky-searcher-extension/tree/docs/README?tab=readme-ov-file#sticky-searcher) | [프로젝트 협업 노션](https://glorious-legend-f3d.notion.site/177f13b583508046990ff03ba1985e95?pvs=4)
 
 ## 학습 기록 및 링크
 
-> **[ Email ]** <br>
-**:link:** [mpnisck@gmail.com](mailto:mpnisck@gmail.com)
-> 
+> **[ Email ]** <br> > **:link:** [mpnisck@gmail.com](mailto:mpnisck@gmail.com)
 
-> **[ Notion ]** <br>
-**:link:** [yeonju Dev Study](https://www.notion.so/Yeonju-Dev-Study-1c88527583fe80fa9cf7d820975d296e?pvs=21)
-> 
+> **[ Notion ]** <br> > **:link:** [Yeonju Dev Study](https://www.notion.so/Yeonju-Dev-Study-1c88527583fe80fa9cf7d820975d296e?pvs=21)
 
 ## 기술 스택
 
 > **[ Languages ]** <br>
-JavaScript (ES6+), HTML5, CSS3, AppleScript
-> 
+> JavaScript (ES6+), HTML5, CSS3, AppleScript
 
 > **[ Framework / Library ]** <br>
-React, React Hooks, React Router
-Tailwind CSS, daisyUI, Electron
-> 
+> React, React Hooks, React Router
+> Tailwind CSS, daisyUI, Electron
 
 > **[ Tools ]** <br>
-Git, GitHub, Figma, VS Code, Chrome DevTools, 
-Figma, Photoshop, Illustrator
->
+> Git, GitHub, Figma, VS Code, Chrome DevTools,
+> Figma, Photoshop, Illustrator
