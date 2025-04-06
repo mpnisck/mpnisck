@@ -16,12 +16,12 @@
 > **[ 팀 ]** Sticky Seacher 검색어 관련 설명 위치 자동 스크롤 및 자동 하이라이팅 크롬 확장 도구 <br>
 > **:link:** [프로젝트 리드미](https://github.com/Sticky-Seacher/sticky-searcher-extension/tree/docs/README?tab=readme-ov-file#sticky-searcher) | [프로젝트 협업 노션](https://glorious-legend-f3d.notion.site/177f13b583508046990ff03ba1985e95?pvs=4)
 
-## 학습 기록 및 링크
+## 학습 기록 및 이메일
 
 > **[ Email ]** <br>
 > **:link:** [mpnisck@gmail.com](mailto:mpnisck@gmail.com)
 
-> **[ Notion ]** <br>
+> **[ Learning Log ]** <br>
 > **:link:** [Yeonju Dev Study](https://www.notion.so/Yeonju-Dev-Study-1c88527583fe80fa9cf7d820975d296e?pvs=21)
 
 ## 기술 스택
