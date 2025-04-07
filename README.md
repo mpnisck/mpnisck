@@ -34,5 +34,5 @@
 > Tailwind CSS, daisyUI, Electron
 
 > **[ Tools ]** <br>
-> Git, GitHub, Figma, VS Code, Chrome DevTools,
+> Git, GitHub, VS Code, Chrome DevTools,
 > Figma, Photoshop, Illustrator
