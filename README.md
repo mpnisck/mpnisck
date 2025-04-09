@@ -30,7 +30,7 @@
 > JavaScript (ES6+), HTML5, CSS3, AppleScript
 
 > **[ Framework / Library ]** <br>
-> React, React Hooks, React Router
+> React, React Hooks, React Router, jQuery
 > Tailwind CSS, daisyUI, Electron
 
 > **[ Tools ]** <br>
