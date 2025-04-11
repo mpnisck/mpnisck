@@ -8,15 +8,15 @@
 
 **협업을 통해 제품의 방향성과 완성도를 함께 높이는 일**에 가치를 두고 기여하고 싶습니다.
 
-## 프로젝트
+## 프로젝트 설명 & 링크
 
 > **[ 개인 ]** HotKey 피그마 단축키 자동 분석 도구 <br> 
-> **:link:** [프로젝트 리드미](https://github.com/mpnisck/HotKey?tab=readme-ov-file#hotkey) | [프로젝트 노션](https://stump-aragon-f40.notion.site/HotKey-1928527583fe81d4a753db0bc453a0ee?pvs=4)
+> **:link:** [프로젝트 리드미](https://github.com/mpnisck/HotKey?tab=readme-ov-file#hotkey) | [프로젝트 노션](https://stump-aragon-f40.notion.site/HotKey-1928527583fe81d4a753db0bc453a0ee?pvs=4) | [프로젝트 다운로드](https://hotkey-v2.netlify.app/) 
 
 > **[ 팀 ]** Sticky Seacher 검색어 관련 설명 위치 자동 스크롤 및 자동 하이라이팅 크롬 확장 도구 <br>
-> **:link:** [프로젝트 리드미](https://github.com/Sticky-Seacher/sticky-searcher-extension/tree/docs/README?tab=readme-ov-file#sticky-searcher) | [프로젝트 협업 노션](https://glorious-legend-f3d.notion.site/177f13b583508046990ff03ba1985e95?pvs=4)
+> **:link:** [프로젝트 리드미](https://github.com/Sticky-Seacher/sticky-searcher-extension/tree/docs/README?tab=readme-ov-file#sticky-searcher) | [프로젝트 협업 노션](https://glorious-legend-f3d.notion.site/177f13b583508046990ff03ba1985e95?pvs=4) | [프로젝트 다운로드](https://chromewebstore.google.com/detail/sticky-searcher/hgffglicdkekapoilckejhebgopacdld?hl=ko&authuser=0) 
 
-## 학습 기록 및 이메일
+## 학습 기록 & 이메일 링크
 
 > **[ Email ]** <br>
 > **:link:** [mpnisck@gmail.com](mailto:mpnisck@gmail.com)
