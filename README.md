@@ -11,15 +11,15 @@
 
 ## 프로젝트 설명 & 링크
 
-> **[ Personal ]** 피그마 단축키 자동 분석 도구 - HotKey <br> > **:link:** [프로젝트 리드미](https://github.com/mpnisck/HotKey?tab=readme-ov-file#hotkey) | [프로젝트 기록 노션](https://stump-aragon-f40.notion.site/HotKey-1928527583fe81d4a753db0bc453a0ee?pvs=4) | [프로젝트 다운로드](https://hotkey-v2.netlify.app/)
+> **[ Personal ]** 피그마 단축키 자동 분석 도구 - HotKey <br> **:link:** [프로젝트 리드미](https://github.com/mpnisck/HotKey?tab=readme-ov-file#hotkey) | [프로젝트 기록 노션](https://stump-aragon-f40.notion.site/HotKey-1928527583fe81d4a753db0bc453a0ee?pvs=4) | [프로젝트 다운로드](https://hotkey-v2.netlify.app/)
 
-> **[ Team ]** 검색어 관련 설명 위치 자동 스크롤 및 자동 하이라이팅 크롬 확장 도구 - Sticky Seacher <br> > **:link:** [프로젝트 리드미](https://github.com/Sticky-Seacher/sticky-searcher-extension?tab=readme-ov-file#sticky-searcher) | [프로젝트 협업 노션](https://glorious-legend-f3d.notion.site/177f13b583508046990ff03ba1985e95?pvs=4) | [프로젝트 다운로드](https://chromewebstore.google.com/detail/sticky-searcher/hgffglicdkekapoilckejhebgopacdld?hl=ko&authuser=0)
+> **[ Team ]** 검색어 관련 설명 위치 자동 스크롤 및 자동 하이라이팅 크롬 확장 도구 - Sticky Seacher <br> **:link:** [프로젝트 리드미](https://github.com/Sticky-Seacher/sticky-searcher-extension?tab=readme-ov-file#sticky-searcher) | [프로젝트 협업 노션](https://glorious-legend-f3d.notion.site/177f13b583508046990ff03ba1985e95?pvs=4) | [프로젝트 다운로드](https://chromewebstore.google.com/detail/sticky-searcher/hgffglicdkekapoilckejhebgopacdld?hl=ko&authuser=0)
 
 ## 학습 기록 & 이메일 링크
 
-> **[ Email ]** <br> > **:link:** [mpnisck@gmail.com](mailto:mpnisck@gmail.com)
+> **[ Email ]** <br> **:link:** [mpnisck@gmail.com](mailto:mpnisck@gmail.com)
 
-> **[ Learning Log ]** <br> > **:link:** [Yeonju Dev Study](https://www.notion.so/Yeonju-Dev-Study-1c88527583fe80fa9cf7d820975d296e?pvs=21)
+> **[ Learning Log ]** <br> **:link:** [Yeonju Dev Study](https://www.notion.so/Yeonju-Dev-Study-1c88527583fe80fa9cf7d820975d296e?pvs=21)
 
 ## 기술 스택
 
