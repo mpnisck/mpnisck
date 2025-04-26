@@ -22,7 +22,7 @@
 ## 기술 스택
 
 > **[ Languages ]** <br>
-> JavaScript (ES6+), HTML5, CSS3, AppleScript, PHP
+> TypeScript, JavaScript (ES6+), HTML5, CSS3, AppleScript, PHP
 
 > **[ Framework / Library ]** <br>
 > React, React Hooks, React Router, jQuery,
