@@ -10,8 +10,8 @@
 > TypeScript, JavaScript (ES6+), HTML5, CSS3, AppleScript, PHP
 
 > **[ Framework / Library ]** <br>
-> React, React Hooks, React Router, jQuery,
-> Tailwind CSS, daisyUI, Electron
+> React, React Hooks, React Router, Next.js, React Query, Zustand, jQuery,
+> Tailwind CSS, daisyUI, Electron, Zod
 
 > **[ Tools ]** <br>
 > Git, GitHub, VS Code, Notion, Slack,
